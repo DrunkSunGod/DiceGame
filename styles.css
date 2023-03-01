@@ -1,0 +1,14 @@
+body{
+    margin : 0 ;
+    text-align : center ;
+    background-color : #EDEDED;
+}
+h1{
+    font-family : 'M PLUS Rounded 1c';
+    font-size : 5rem ;
+    margin-bottom : 50px ;
+}
+h3{
+    font-family : 'M PLUS Rounded 1c';
+    font-weight : 300 ;
+}
